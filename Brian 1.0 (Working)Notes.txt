@@ -1,0 +1,4 @@
+Brian 1.0 Beta
+	- PostgreSQL 15.2 (Windows Package)
+	- Add lib and bin to PATH
+	- Command Line: psql -U postgres
